@@ -20,6 +20,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'haml'
 gem 'bootstrap-sass', '~> 2.3.2.0'
 gem 'simple_form'
+gem 'bootstrap-datepicker-rails'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
