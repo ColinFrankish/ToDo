@@ -14,5 +14,6 @@
             ToDo
           %p
             This is the to do application
-  = yield 
+          = link_to 'New Task', new_task_path, class: 'btn btn-primary', remote: true
+    = yield 
 
